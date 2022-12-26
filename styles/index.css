@@ -1,0 +1,23 @@
+body {
+    padding: 120px;
+
+}
+.wrapper{
+    background-color: darkgrey;
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.form-label {
+    width: 200px;
+    display: inline-block;
+    height: 30px;
+}
+.form-label-agreement {
+    font-size: 10px;
+}
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
